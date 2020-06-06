@@ -1,3 +1,5 @@
+Adding some more chnages here for conflict test
+
 some test text
 adding some chnages on a branch
 
